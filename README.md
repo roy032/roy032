@@ -8,8 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jayanta-roy-b80357407"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jroyakash4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20internships%20%26%20new--grad%20roles-2ea44f?style=for-the-badge" alt="Open to AI/ML roles"/>
-</p>
 
 ---
 
