@@ -19,7 +19,7 @@
 - 🔭 Currently building a **bilingual legal RAG assistant** and **CineScope**, a computer-vision "X-Ray" engine for films
 - 🧠 Thesis: **healthy-reference-guided brain MRI classification** (Healthy / Alzheimer's / Parkinson's / MS) with ConvNeXt + Swin, prototype memory and a KAN head
 - 📜 DataCamp **AI Engineer for Developers** (Associate) · DataCamp **Data Analyst** (Associate)
-
+- 💬 Ask me about hybrid retrieval, RAG evaluation, or why `cv2.filter2D` is correlation and not convolution
 
 ---
 
@@ -30,16 +30,12 @@
 <td width="50%" valign="top">
 
 #### ⚖️ [bd-legal-rag](https://github.com/roy032/bd-legal-rag)
-Bilingual (Bangla + English) question answering over the statutes of Bangladesh. Every answer cites its section, and the system refuses when the law doesn't answer the question.
+Bilingual (Bangla + English) question answering over the statutes of Bangladesh, built to cite the section behind every answer and to refuse when the law doesn't cover the question.
 
-- Structure-aware ingestion: Act → Chapter → Section, cross-act references
-- Hybrid retrieval: **bge-m3** dense + Bangla-aware **BM25**, RRF fusion, cross-encoder rerank
-- Guardrails: citation and verbatim-quote checks, abstention, prompt-injection handling
-- Agent mode with tool calls (`search`, `get_section`, `follow_refs`)
-- Eval kit: graded nDCG, failure taxonomy, ablations · **200+ offline tests**
-- Streaming API + UI · Docker · runs on OpenAI, Anthropic or local **Ollama**
+- ✅ **Phase 1 (on GitHub):** scraper and structure-aware parser (Act → Chapter → Section), chunking with metadata and automated quality checks
+- 🚧 **In progress:** hybrid retrieval (bge-m3 dense + Bangla-aware BM25, RRF fusion, cross-encoder rerank), cited generation with guardrails, agent mode, and an evaluation suite
 
-`Python` `RAG` `LLMs` `Qdrant` `Docker` · 🚧 *active*
+`Python` `RAG` `LLMs` `NLP` · 🚧 *active*
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +80,7 @@ End-to-end ML pipeline that flags students at risk of poor academic outcomes. It
 |---|---|---|
 | [Travelo](https://github.com/roy032/Travelo) | Full-stack group-travel planner: collaborative trips, budgeting, real-time updates, JWT auth | React · Vite · Node/Express · MongoDB · Socket.IO |
 | [penalty-shootout-opengl](https://github.com/roy032/penalty-shootout-opengl) | 3D penalty-shootout game with a goalkeeper AI that predicts shot direction | Python · PyOpenGL |
-| [network-design-vlsm](https://github.com/roy032/network-design-vlsm) | Department-based enterprise network design with VLSM subnet planning and a subnet calculator | Networking · Python |
+| [network-design-vlsm](https://github.com/roy032/network-design-vlsm) | Enterprise network with VLSM subnetting, OSPF + static routing, DHCP, DNS, web and mail servers | Cisco Packet Tracer |
 
 </details>
 
@@ -106,4 +102,4 @@ End-to-end ML pipeline that flags students at risk of poor academic outcomes. It
 
 ---
 
-
+<p align="center"><i>"Implement it from scratch, then benchmark it against the library."</i></p>
