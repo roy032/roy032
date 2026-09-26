@@ -1,32 +1,40 @@
-## Jayanta Roy
+<div align="center">
 
-Computer Science & Engineering student at BRAC University.
+<h2>Jayanta Roy</h2>
 
-[LinkedIn](https://www.linkedin.com/in/jayanta-roy-b80357407)
+<p>Computer Science &amp; Engineering · BRAC University</p>
 
-### Projects
+<a href="https://www.linkedin.com/in/jayanta-roy-b80357407"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+</div>
+
+<br/>
+
+#### Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [Travelo](https://github.com/roy032/Travelo) | Collaborative travel planner: group trips, itineraries, shared expenses, real-time updates | React, Node.js, Express, MongoDB, Socket.IO |
-| [academic-success-prediction](https://github.com/roy032/academic-success-prediction) | Predicting student academic outcomes with classical ML and clustering | Python, scikit-learn, pandas |
-| [network-design-vlsm](https://github.com/roy032/network-design-vlsm) | Enterprise network with VLSM subnetting, OSPF and static routing, DHCP, DNS, web and mail servers | Cisco Packet Tracer |
-| [penalty-shootout-opengl](https://github.com/roy032/penalty-shootout-opengl) | 3D penalty shootout game with an AI goalkeeper | Python, PyOpenGL |
+|:--|:--|:--|
+| **[Travelo](https://github.com/roy032/Travelo)** | Collaborative travel planner with group trips, itineraries, shared expenses and real-time updates | `React` `Node.js` `MongoDB` `Socket.IO` |
+| **[Academic Success Prediction](https://github.com/roy032/academic-success-prediction)** | Predicting student academic outcomes with classical ML and clustering | `Python` `scikit-learn` `pandas` |
+| **[Network Design (VLSM)](https://github.com/roy032/network-design-vlsm)** | Enterprise network with VLSM subnetting, OSPF and static routing, DHCP, DNS, web and mail servers | `Cisco Packet Tracer` |
+| **[Penalty Shootout](https://github.com/roy032/penalty-shootout-opengl)** | 3D penalty shootout game with an AI goalkeeper | `Python` `PyOpenGL` |
 
-### In progress
+#### In progress
 
-- [bd-legal-rag](https://github.com/roy032/bd-legal-rag): bilingual question answering over the laws of Bangladesh (RAG)
-- [CineScope](https://github.com/roy032/cinescope): computer vision for film analysis
+| Project | Description | Stack |
+|:--|:--|:--|
+| **[bd-legal-rag](https://github.com/roy032/bd-legal-rag)** | Bilingual question answering over the laws of Bangladesh | `Python` `RAG` `LLMs` |
+| **[CineScope](https://github.com/roy032/cinescope)** | Computer vision for film analysis | `Python` `PyTorch` `OpenCV` |
 
-### Skills
+#### Skills
 
-- **Languages:** Python, C++, JavaScript, SQL
-- **ML / AI:** PyTorch, scikit-learn, OpenCV, pandas, NumPy, RAG, LLMs
-- **Web:** React, Node.js, Express, MongoDB
-- **Networking:** VLSM subnetting, OSPF, DHCP, DNS, Cisco Packet Tracer
-- **Tools:** Git, Docker, Linux, Jupyter
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,pytorch,sklearn,opencv,react,nodejs,express,mongodb,docker,git,linux&perline=13" alt="Skills"/>
+</p>
 
-### Certifications
+<sub>Also: SQL · pandas · NumPy · RAG · LLMs · VLSM subnetting · OSPF · DHCP · DNS · Cisco Packet Tracer</sub>
 
-- DataCamp: AI Engineer for Developers (Associate)
-- DataCamp: Data Analyst (Associate)
+#### Certifications
+
+<sub>DataCamp · AI Engineer for Developers (Associate)</sub><br/>
+<sub>DataCamp · Data Analyst (Associate)</sub>
