@@ -19,7 +19,7 @@
 - 🔭 Currently building a **bilingual legal RAG assistant** and **CineScope**, a computer-vision "X-Ray" engine for films
 - 🧠 Thesis: **healthy-reference-guided brain MRI classification** (Healthy / Alzheimer's / Parkinson's / MS) with ConvNeXt + Swin, prototype memory and a KAN head
 - 📜 DataCamp **AI Engineer for Developers** (Associate) · DataCamp **Data Analyst** (Associate)
-- 💬 Ask me about hybrid retrieval, RAG evaluation, or why `cv2.filter2D` is correlation and not convolution
+
 
 ---
 
