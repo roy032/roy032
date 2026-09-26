@@ -100,4 +100,3 @@ End-to-end ML pipeline that flags students at risk of poor academic outcomes. It
 
 ---
 
-<p align="center"><i>"Implement it from scratch, then benchmark it against the library."</i></p>
