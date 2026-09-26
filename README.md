@@ -34,7 +34,3 @@
 
 <sub>Also: SQL · pandas · NumPy · RAG · LLMs · VLSM subnetting · OSPF · DHCP · DNS · Cisco Packet Tracer</sub>
 
-#### Certifications
-
-<img src="https://img.shields.io/badge/DataCamp-AI%20Engineer%20for%20Developers%20%28Associate%29-03EF62?style=flat-square&logo=datacamp&logoColor=black" alt="DataCamp AI Engineer for Developers"/>
-<img src="https://img.shields.io/badge/DataCamp-Data%20Analyst%20%28Associate%29-03EF62?style=flat-square&logo=datacamp&logoColor=black" alt="DataCamp Data Analyst"/>
