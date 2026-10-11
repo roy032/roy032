@@ -2,7 +2,9 @@
 
 <h2>Jayanta Roy</h2>
 
-<p>Computer Science &amp; Engineering · BRAC University</p>
+<p>Computer Science student at BRAC University · AI/ML and software engineering · Dhaka, Bangladesh</p>
+
+<a href="https://roy032.github.io"><img src="https://img.shields.io/badge/Portfolio-0b6b4f?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 
 <a href="https://www.linkedin.com/in/jayanta-roy-b80357407"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
