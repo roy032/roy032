@@ -18,6 +18,7 @@
 |:--|:--|:--|
 | **[bd-legal-rag](https://github.com/roy032/bd-legal-rag)** | Bilingual (Bangla/English) question answering over the laws of Bangladesh, with section-level citations | `Python` `RAG` `bge-m3` `Ollama` |
 | **[SupportFlow](https://github.com/roy032/supportflow)** | Support automation: signed Tally webhooks classified by an LLM and summarised to Slack | `Python` `FastAPI` `SQLAlchemy` `Ollama` |
+| **[Client Delivery Tracker](https://github.com/roy032/client-delivery-tracker)** | Excel workbook that tracks client requests against service targets, with a dashboard and auto-written weekly report | `Excel` `Python` `openpyxl` |
 | **[Travelo](https://github.com/roy032/Travelo)** | Collaborative travel planner with group trips, itineraries, shared expenses and real-time updates | `React` `Node.js` `MongoDB` `Socket.IO` |
 | **[Academic Success Prediction](https://github.com/roy032/academic-success-prediction)** | Predicting student dropout and graduation with leakage-free scikit-learn pipelines | `Python` `scikit-learn` `pandas` |
 | **[Network Design (VLSM)](https://github.com/roy032/network-design-vlsm)** | Enterprise network with VLSM subnetting, OSPF and static routing, DHCP, DNS, web and mail servers | `Cisco Packet Tracer` |
